@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<compile>
+	<sign>
+		<value>int,public,this,finally,bollean,String,char,float,throw,return,break,
+		    ,for,static,new,interface,if,default,do,case,super,void,try,switch,else,catch,
+		    ,implements,private,final,class,extends,while,char,protected,double,
+		    </value>
+	</sign>
+	<opeator>
+		<value>+,-,*,/,=,--,;,!,==,.,+=,++,&lt;,&gt;,&lt;&gt;,&lt;=,&gt;=,(,),{,}</value>
+	</opeator>
+	<special>
+		<value>_,$</value>
+	</special>
+</compile>
